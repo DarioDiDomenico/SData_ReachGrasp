@@ -4,6 +4,10 @@
 
 <p align="center"><img src="https://github.com/DarioDiDomenico/Reach-Grasp/blob/main/assets/movement.gif" alt="" /></p>
 
+## Paper
+
+The article associated with this dataset is available at the following link: [Scientific Data](https://rdcu.be/ei71E)
+
 ## Description
 
 This is the repository associated to the dataset Reach&Grasp presented in the publication [Reach&Grasp](INSERT_URL).
@@ -58,32 +62,35 @@ We provide [Matlab](https://github.com/DarioDiDomenico/Reach-Grasp/tree/1c675ea6
 
 If you find the Reach&Grasp dataset useful, please consider citing the associated publication:
 
-<!-- ```bibtex
-@ARTICLE{9568706,
-author={Piga, Nicola A. and Onyshchuk, Yuriy and Pasquale, Giulia and Pattacini, Ugo and Natale, Lorenzo},
-journal={IEEE Robotics and Automation Letters},
-title={ROFT: Real-Time Optical Flow-Aided 6D Object Pose and Velocity Tracking},
-year={2022},
-volume={7},
-number={1},
-pages={159-166},
-doi={10.1109/LRA.2021.3119379}
+```bibtex
+@article{di_domenico_reachgrasp_2025,
+	title = {Reach\&{Grasp}: a multimodal dataset of the whole upper-limb during simple and complex movements},
+	volume = {12},
+	issn = {2052-4463},
+	url = {https://doi.org/10.1038/s41597-025-04552-5},
+	doi = {10.1038/s41597-025-04552-5},
+	number = {1},
+	journal = {Scientific Data},
+	author = {Di Domenico, Dario and Forsiuk, Inna and Müller-Cleve, Simon and Tanzarella, Simone and Garro, Florencia and Marinelli, Andrea and Canepa, Michele and Laffranchi, Matteo and Chiappalone, Michela and Bartolozzi, Chiara and De Michieli, Lorenzo and Boccardo, Nicolò and Semprini, Marianna},
+	month = feb,
+	year = {2025},
+	pages = {233},
 }
-``` -->
+```
 
 and the Dataset:
 
-<!-- ```bibtex
-@data{G2QJDM_2022,
-author = {Piga, Nicola A. and Onyshchuk, Yuriy and Pasquale, Giulia and Pattacini, Ugo and Natale, Lorenzo},
+```bibtex
+@data{L6OWMM_2025,
+author = {Di Domenico, Dario and Forsiuk, Inna and Müller-Cleve, Simon and Tanzarella, Simone and Garro, Florencia and Marinelli, Andrea and Canepa, Michele and Laffranchi, Matteo and Chiappalone, Michela and Bartolozzi, Chiara and De Michieli, Lorenzo and Boccardo, Nicolò and Semprini, Marianna},
 publisher = {IIT Dataverse},
-title = {{Fast-YCB Dataset}},
-year = {2022},
+title = {{Reach&Grasp: a multimodal dataset of the whole upper-limb during simple and complex movements}},
+year = {2025},
 version = {V1},
-doi = {10.48557/G2QJDM},
-url = {https://doi.org/10.48557/G2QJDM}
+doi = {10.48557/L6OWMM},
+url = {https://doi.org/10.48557/L6OWMM}
 }
-``` -->
+```
 
 ## Maintainer
 
